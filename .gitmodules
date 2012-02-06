@@ -1,0 +1,3 @@
+[submodule "library/Vulnero"]
+	path = library/Vulnero
+	url = git://github.com/andrew-kandels/vulnero.git
