@@ -77,7 +77,6 @@ if (!defined('APPLICATION_PATH')) {
 
 set_include_path(implode(PATH_SEPARATOR, array(
     PLUGIN_BASE_PATH . '/library',
-    PLUGIN_BASE_PATH . '/library/Vulnero/library',
     PLUGIN_BASE_PATH . '/library/php-github-api/lib',
     APPLICATION_PATH . '/widgets',
     APPLICATION_PATH . '/admin-pages',
